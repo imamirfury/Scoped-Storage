@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Scoped Storage</string>
+    <string name="clickPhoto">Click Photo</string>
+    <string name="photo">Photo</string>
+    <string name="privatePhotos">Private Photos</string>
+    <string name="sharedPhotos">Shared Photos</string>
+</resources>
